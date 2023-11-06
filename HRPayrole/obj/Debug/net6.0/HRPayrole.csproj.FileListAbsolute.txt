@@ -1,0 +1,59 @@
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.csproj.AssemblyReference.cache
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.GeneratedMSBuildEditorConfig.editorconfig
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.AssemblyInfoInputs.cache
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.AssemblyInfo.cs
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.csproj.CoreCompileInputs.cache
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.MvcApplicationPartsAssemblyInfo.cache
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.RazorAssemblyInfo.cache
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.RazorAssemblyInfo.cs
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\appsettings.Development.json
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\appsettings.json
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\HRPayrole.staticwebassets.runtime.json
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\HRPayrole.exe
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\HRPayrole.deps.json
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\HRPayrole.runtimeconfig.json
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\HRPayrole.dll
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\HRPayrole.pdb
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\staticwebassets.build.json
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\staticwebassets.development.json
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\scopedcss\bundle\HRPayrole.styles.css
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\scopedcss\projectbundle\HRPayrole.bundle.scp.css
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.dll
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\refint\HRPayrole.dll
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.pdb
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.genruntimeconfig.cache
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\ref\HRPayrole.dll
+G:\bpmbiinc\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\libman.json
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\appsettings.Development.json
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\appsettings.json
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\libman.json
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\HRPayrole.staticwebassets.runtime.json
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\HRPayrole.exe
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\HRPayrole.deps.json
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\HRPayrole.runtimeconfig.json
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\HRPayrole.dll
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\bin\Debug\net6.0\HRPayrole.pdb
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.csproj.AssemblyReference.cache
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.GeneratedMSBuildEditorConfig.editorconfig
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.AssemblyInfoInputs.cache
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.AssemblyInfo.cs
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.csproj.CoreCompileInputs.cache
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.MvcApplicationPartsAssemblyInfo.cache
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.RazorAssemblyInfo.cache
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.RazorAssemblyInfo.cs
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\staticwebassets\msbuild.HRPayrole.Microsoft.AspNetCore.StaticWebAssets.props
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\staticwebassets\msbuild.build.HRPayrole.props
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HRPayrole.props
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HRPayrole.props
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\staticwebassets.pack.json
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\staticwebassets.build.json
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\staticwebassets.development.json
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\scopedcss\bundle\HRPayrole.styles.css
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\scopedcss\projectbundle\HRPayrole.bundle.scp.css
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.dll
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\refint\HRPayrole.dll
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.pdb
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\HRPayrole.genruntimeconfig.cache
+G:\bpmbiinc\BPM\old projects\HR\HRPayrole\HRPayrole\obj\Debug\net6.0\ref\HRPayrole.dll

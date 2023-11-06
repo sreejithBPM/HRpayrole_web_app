@@ -1,0 +1,44 @@
+﻿@using HRPayrole.Models
+@model PayRoleRecord
+<link rel="stylesheet" href="~/css/PayPartial.css" asp-append-version="true" />
+
+
+<div class="row" style="margin-top:4rem;">
+	<div class="col gbod">
+
+	<div class="mr-auto p-2"><h2>@Model.Month</h2><br /><h4>@Model.MonthTill</h4></div>
+	</div>
+		<div class="bod col-md-auto">
+		<h6>Total Employees</h6><br /><h3 style="color:limegreen;">@Model.Total</h3>
+	</div>
+	
+		<div class="bod col col-lg-2">
+		<h6>Payrole Processed</h6><br /><h3 style="color:red;">@Model.Process</h3>
+	</div>
+	
+</div>
+<div class="line"></div>
+
+
+<h6 style="margin-top:5rem;">Deduction Summary</h6>
+<div class="d-flex justify-content-between" style="margin-top:3rem;">
+	<div><h4 style="color:blue;">EPF</h4><i class="fa-solid fa-leaf"></i><br />@Model.EPF<br /><a href="#">view details</a></div>
+	<div><h4 style="color:forestgreen;">ESI</h4><i class="fa-solid fa-kit-medical"></i><br />@Model.ESI<br /><a href="#">view details</a></div>
+	<div><h4 style="color:orangered;">TDS</h4><i class="fa-solid fa-user-minus"></i><br />@Model.TDS<br /><a href="#">view details</a></div>
+	<div>ACTIVE EMPLOYEES<br /><h1 style="color:limegreen;margin-top:2rem;">@Model.Active</h1><br /><a href="#">view details</a></div>
+
+</div>
+<div class="line"></div>
+
+
+<div class="gbod">
+	<div class="row" style="margin-top: 4rem;">
+		<div class="col">Employyes Net Pay<br />@Model.TotalPay</div>
+		<div class="col">Payment Date<br />@Model.TotalPayDate</div>
+		<div class="col">No.of Employees<br />@Model.Total</div>
+		<div class="col"><button type="button" class="btn btn-primary" style="margin: 1rem;">view details & pay</button></div>
+	</div>
+
+<h6 style="color:silver;margin-top:2rem;">  Pay your Employees on 31/01/2022.Record it here once you had made the payment</h6>
+</div>
+

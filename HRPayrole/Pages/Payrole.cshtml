@@ -1,0 +1,69 @@
+﻿@page
+@model HRPayrole.Pages.PayroleModel
+@{
+}
+<link rel="stylesheet" href="~/css/Pay.css" asp-append-version="true" />
+
+<div class="collapse navbar-collapse justify-content-md-center">
+	<ul class="navbar-nav">
+		<li class="nav-item active">
+			<a class="nav-link" href="#">HOME</a>
+		</li>
+		<li class="nav-item active">
+			<a class="nav-link" href="#">PAYROLE</a>
+		</li>
+		<li class="nav-item active">
+			<a class="nav-link" href="#">APPROVALS</a>
+		</li>
+		<li class="nav-item active">
+			<a class="nav-link" href="#">REPORTS</a>
+		</li>
+	</ul>
+</div>
+
+
+
+
+
+<div class="container">
+
+	<div class="d-flex justify-content-start ">
+		<div class="horizontal-scroll">
+			<button class="btn-scroll" id="btn-scroll-left" onclick="scrollHorizontally(1)"><i class="fa fas-chevron-left"></i></button>
+			<button class="btn-scroll" id="btn-scroll-right" onclick="scrollHorizontally(-1)"><i class="fa fas-chevron-right"></i></button>
+
+		
+		@foreach (var item in Model.PayRoleRecords)
+		{
+			<a asp-page-handler="FetchPays" asp-route-PayId="@item.PayId" id="partial1" class="color square list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
+				<div id="color" class="d-flex w-100 align-items-center">
+					<strong style="font-size:14px;">@item.Month</strong>
+
+				</div>
+				<div id="color" class="d-flex w-100 align-items-center">
+				</div>
+				<div id="color" class="d-flex w-100 align-items-center">
+					<small style="font-size:9px;">@item.MonthTill</small>
+
+				</div>
+				<div id="color1" class="d-flex w-100 align-items-center">
+					<small style="margin-top:24px;color:green;">@item.status</small>
+
+				</div>
+			</a>
+
+		}
+		</div>
+	</div>
+
+	<div id="body">
+	</div>
+</div>
+
+
+@section scripts {
+	
+
+
+	<script type="text/javascript" src="~/js/site.js" asp-append-version="true"></script>
+}
